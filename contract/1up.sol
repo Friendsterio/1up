@@ -27,7 +27,7 @@ contract TRC20 {
      *
      * Initializes contract with initial supply tokens to the creator of the contract
      */
-    uint256 initialSupply = 1000000000;
+    uint256 initialSupply = 100000000;
     string tokenName = '1UP';
     string tokenSymbol = '1UP';
     constructor() public {
